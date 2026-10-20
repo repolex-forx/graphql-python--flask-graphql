@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "graphql-python",
+  "repo": "flask-graphql",
+  "versions": [
+    {
+      "commit": "0d45561607950b68458925537f116298fc81b4d3",
+      "parsed_at": "2026-10-20T23:08:02.788301+00:00",
+      "filetree": "filetree/0d45561607950b68458925537f116298fc81b4d3.nq.gz",
+      "blobs": [
+        "blob/84f1d23d838058f37efb7673420fb25d93c2cfb3.nq.gz",
+        "blob/6a6be069861d34c2854970cf5ae4fca1343f1cfd.nq.gz",
+        "blob/a6f33e3d914c85cab68f5bdb26f452bfeab56ad2.nq.gz",
+        "blob/52554b12f7440a86754a78a204d31dace2e3346d.nq.gz",
+        "blob/961a8e022547fe98908ba78b2a1d261d80810212.nq.gz",
+        "blob/d8a626ef9123c936747cbb54da6b6c5ceedf9b25.nq.gz",
+        "blob/3546b1d6d326a243bb84dc9048e9831457716054.nq.gz",
+        "blob/642f015bf654723c3863819074fc78c5dbe328a6.nq.gz",
+        "blob/4a557101bb04e7becddbd97932a6eaf58610dd12.nq.gz",
+        "blob/fdb5c9a144dfcc0a26fe3bbd0cbf5137b6561ceb.nq.gz",
+        "blob/b6ff2043f2cc918fa4bdf6f3de58edf53146f133.nq.gz",
+        "blob/5b3ee3cfec7ff7b62383449661eb45a2dc250956.nq.gz",
+        "blob/72ab3650db0b43e1efa4c3765ad0fd02e2143801.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/0fa13a13f82ea79ff61cc99794a900c9bce4af75.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
