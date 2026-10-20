@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/flask-graphql/commit/0d45561607950b68458925537f116298fc81b4d3",
       "git:hexsha": "0d45561607950b68458925537f116298fc81b4d3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T23:10:56.880274+00:00"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/flask-graphql/commit/6b9ffdcaae1ae585900dab4a90d7c7d4029a9ed6",
